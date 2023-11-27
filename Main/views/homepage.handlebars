@@ -1,0 +1,10 @@
+{{!-- {{#each galleries as |gallery|}}
+{{> gallery-details}}
+{{/each}} --}}
+{{#each posts as |post|}}
+  <div class="gallery">
+    <p> {{post.id}}</p>
+    <p>{{post.title}}</p>
+    <p>{{post.content}}</p>
+  </div>
+{{/each}}

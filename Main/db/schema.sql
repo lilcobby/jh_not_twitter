@@ -1,2 +1,3 @@
-DROP DATABASE IF EXISTS not_twitter;
-CREATE DATABASE not_twitter;
+DROP DATABASE IF EXISTS museum_db;
+
+CREATE DATABASE museum_db;

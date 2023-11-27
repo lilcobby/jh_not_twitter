@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS not_twitter;
+CREATE DATABASE not_twitter;
